@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1616
     wikipedia: http://en.wikipedia.org/wiki/Robert_Barr_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32185#Lord-Stranleigh-Abroad
 gutenberg_issued: '2010-04-30'
 gutenberg_type: Text
 identifiers:
